@@ -29,6 +29,6 @@
 
 ### 🚀 Projects
 
-_(Projects coming soon...)_
+[![EchoSight-ToF](https://github.com/marwenkhj/EchoSight-ToF)
 
 </div>
