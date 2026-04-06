@@ -30,5 +30,7 @@
 ### 🚀 Projects
 
 [EchoSight-ToF](https://github.com/marwenkhj/EchoSight-ToF) <br>
-[Driving License Simulator](https://github.com/marwenkhj/Driving-License-Simulator)
+[Driving License Simulator](https://github.com/marwenkhj/Driving-License-Simulator) <br>
+[BWT Networking Simulator](https://github.com/marwenkhj/BWT-Networking-Simulator) <br>
+
 </div>
